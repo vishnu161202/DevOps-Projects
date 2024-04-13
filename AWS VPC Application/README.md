@@ -28,8 +28,6 @@ The architecture includes the following application categories:
 - Managed Services (e.g., RDS Database, S3, Secrets Manager)
 - Additionally, you will document the necessary VPC CIDR, subnets, etc. This is a standard practice in organizations
 
-**Design Documentation:** [AWS VPC Design: A Practical Approach](https://devopscube.com/aws-vpc-design/)
-
 ## Automate VPC Creation Using Terraform
 
 Once you grasp VPC design and documentation, the next step is to automate VPC management, enabling reproducibility and simplified management with a single click.
@@ -52,13 +50,6 @@ We will be creating the VPC with the following
 
 We have created Terraform VPC modules for the requirements we outlined in the Design.
 
-**Terraform VPC Creation Documentation:** [Create AWS VPC Using Terraform](https://devopscube.com/terraform-aws-vpc/)
-
-## Further Learning References
-
-1. [One to Many: Evolving VPC Design](https://aws.amazon.com/blogs/architecture/one-to-many-evolving-vpc-design/)
-2. [AWS Network Connectivity Models](https://docs.aws.amazon.com/whitepapers/latest/hybrid-connectivity/connectivity-models.html)
-3. [AWS Hybrid Network Design Pattern](https://aws.amazon.com/blogs/apn/vmware-cloud-on-aws-hybrid-network-design-patterns/)
 
 
 
