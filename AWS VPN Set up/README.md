@@ -23,4 +23,3 @@ The following topic is covered in a theoretical format:
 
 The following documentation has the step-by-step tutorial on AWS Client VPN Endpoint setup to achieve secure, scalable, and highly available remote VPC connectivity.
 
-**Full Documentation:** [AWS Cleint VPN With mTLS Setup](https://devopscube.com/aws-client-vpn/)
